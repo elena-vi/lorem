@@ -1,0 +1,6 @@
+{
+  "_id": "page.check",
+  "_type": "page.summary",
+  "actionType": "confirm",
+  "url": "check"
+}

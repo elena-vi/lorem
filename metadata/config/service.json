@@ -1,7 +1,13 @@
 {
   "_id": "service",
+  "_isa": "@ministryofjustice/fb-components-core=>service",
   "_type": "config.service",
+  "code": "lorem",
+  "dataRetentionDuration": 4,
+  "emailInputNameUser": "elena.vilimaite@digital.justice.gov.uk",
+  "languageDefault": "lorem",
   "name": "Service name goes here",
+  "pdfHeading": "lorem form",
   "phase": "alpha",
   "phaseText": "Service phase text goes here"
 }

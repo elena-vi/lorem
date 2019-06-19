@@ -1,0 +1,34 @@
+{
+  "_id": "page.q2",
+  "_type": "page.form",
+  "actionType": "saveContinue",
+  "body": "Post statuas constantii deiectas super adimenda.",
+  "components": [
+    {
+      "_id": "page.q2--checkboxes",
+      "_type": "checkboxes",
+      "hint": "Alto dignitatis gradu ad superos videatur deos potius quam ad.",
+      "items": [
+        {
+          "_id": "page.q2--checkboxes--checkbox.auto_name__2",
+          "_type": "checkbox",
+          "hint": "Si nulla res impediat",
+          "label": "Feci mentionem",
+          "name": "auto_name__2"
+        },
+        {
+          "_id": "page.q2--checkboxes--checkbox.auto_name__3",
+          "_type": "checkbox",
+          "hint": "Nemo est, quin eo",
+          "label": "Impediat",
+          "name": "auto_name__3"
+        }
+      ],
+      "legend": "Libentius utatur"
+    }
+  ],
+  "heading": "Vita celeberrimos laetissimosque viderit",
+  "lede": "Est, caesar sciens quod si cessaveris, et tuas",
+  "sectionHeading": "Cato in perfecto et",
+  "url": "q2"
+}
