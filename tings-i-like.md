@@ -8,3 +8,4 @@
 - Cats 🐱
 - Memes
 - Burgers 🍔
+- Doggos
