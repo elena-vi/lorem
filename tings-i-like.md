@@ -3,5 +3,8 @@
 - Ting
 - El
 - Lu
+- Sleep 🛌
 - David
+- Cats 🐱
 - Memes
+- Burgers 🍔
