@@ -45,6 +45,5 @@ using Git through a pull request flow.
 ## Resources
 
 - [Git](https://git-scm.com/)
-- [Atlassian Tutorial - What is git](https://www.atlassian.com/git/tutorials/what-is-git)
-- [freeCodeCamp - An introduction to Git: what it is, and how to use it
-](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
+- [Atlassian Tutorial - Git](https://www.atlassian.com/git)
+- [freeCodeCamp - An introduction to Git: what it is, and how to use it](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
