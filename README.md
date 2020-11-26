@@ -35,3 +35,8 @@ A way of:
   - Add another thing you like to the ["ting I like"](/tings-i-like.md) list
   - Commit and push your changes to :octocat:
   - Open a new pull request and resolve the merge conflicts
+
+## Resources
+
+- [Git](https://git-scm.com/)
+- [Atlassian Tutorial - What is git](https://www.atlassian.com/git/tutorials/what-is-git)
