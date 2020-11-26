@@ -20,21 +20,27 @@ A way of:
 
 ## Practical
 
-### Level 1
+### Aim
 
-- Clone this repository
-- Check out into a new branch
-- Add one thing you like to the ["ting I like"](/tings-i-like.md) list
-- Commit and push your changes to :octocat:
-- Open and merge a new pull request
+To get Tech Ops comfortable with making changes and resolving merge conflicts
+using Git through a pull request flow.
 
-### Level 2
-    > you and el have been collaborating on a branch called `tings_you_n_el_likes`
+### Level 1 - Making changes
 
-  - Pull down the existing branch called `tings_you_n_el_likes`
-  - Add another thing you like to the ["ting I like"](/tings-i-like.md) list
-  - Commit and push your changes to :octocat:
-  - Open a new pull request and resolve the merge conflicts
+1. Clone this repository
+2. Check out into a new branch
+3. Add one thing you like to the ["tings I like"](/tings-i-like.md) list
+4. Commit and push your changes to :octocat:
+5. Open and request a review from someone
+
+### Level 2 - Resolving conflicts
+
+> You and El have been collaborating on a branch called `tings_you_n_el_likes`.
+
+1. Pull down the existing branch called `tings_you_n_el_likes`
+2. Add another thing you like to the ["ting I like"](/tings-i-like.md) list
+3. Commit and push your changes to :octocat:
+4. Open a new pull request and resolve the merge conflicts
 
 ## Resources
 
