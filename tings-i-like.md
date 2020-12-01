@@ -5,3 +5,5 @@
 - Lu
 - David
 - Memes
+- Jon
+- Richard
